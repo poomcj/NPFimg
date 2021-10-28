@@ -1,4 +1,6 @@
 # NPFimg
 We present a method named NPFimg, which automatically identifies multivariate chemo-/biomarker features of analytes in chromatography–mass spectrometry (MS) data by combining image processing and machine learning. NPFimg processes a two-dimensional MS map (m/z vs retention time) to discriminate analytes and identify and visualize the marker features. Our approach allows us to comprehensively characterize the signals in MS data without the conventional peak picking process, which suffers from false peak detections. The feasibility of marker identification is successfully demonstrated in case studies of aroma odor and human breath on gas chromatography–mass spectrometry (GC–MS) even at the parts per billion level. Comparison with the widely used XCMS shows the excellent reliability of NPFimg, in that it has lower error rates of signal acquisition and marker identification. In addition, we show the potential applicability of NPFimg to the untargeted metabolomics of human breath. While this study shows the limited applications, NPFimg is potentially applicable to data processing in diverse metabolomics/chemometrics using GC–MS and liquid chromatography–MS
 
+read full manual script @ https://pubs.acs.org/doi/full/10.1021/acs.analchem.1c03163
+
 For the code details, I will update soon, thank for visiting my page!
