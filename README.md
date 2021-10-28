@@ -3,4 +3,4 @@ We present a method named NPFimg, which automatically identifies multivariate ch
 
 read full manual script @ https://pubs.acs.org/doi/full/10.1021/acs.analchem.1c03163
 
-For the code details, I will update soon, thank for visiting my page!
+For the other details, I will update soon, thank for visiting my page!
