@@ -1,2 +1,2 @@
 # NPFimg
-I will update the detials later, thank for visiting my page!
+I will update the details soon, thank for visiting my page!
